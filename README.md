@@ -2,7 +2,7 @@
 
 A 12-module self-study repo for CS fundamentals: notes, exercises, DSA practice and projects.
 
-Roadmap: [Roadmap doc](TODO-add-link)
+Roadmap: [Roadmap doc (private)](https://claude.ai/artifact/HkPy2BwYCi2Q2mg4b9tCwy)
 
 ## Progress
 
